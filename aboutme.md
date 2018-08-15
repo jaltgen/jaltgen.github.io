@@ -8,14 +8,23 @@ My name is Jannik C. Altgen, but you can call me Chris.
 
 *My mission here is to help create amazing visuals using efficient and effective digital cinema workflows from start to finish.*
 
-I want to be there in preproduction, when you are wondering which camera to use. If you worry about exposure on set, I want to be there for you. And when we sit in the cozy darkness of the grading suite, I want to be there to finish our greates work yet. If you love crafting stunning images as much as I, why don't we do this together?
+Can I be there for you all the way:
+- in preproduction, choosing and tuning gear?
+- on set, when you worry about exposure or safe media storage?
+- in the cozy darkness of the grading suite, finalizing it all?
 
-Self-improvement and honesty are core values that keep me moving forwards. If there's something new to learn, I will dive right in. Something I don't subscribe to is politics. If there's an issue, let's talk about it and not sweep it under the rug. 
+Let's create your and my next big thing, together.
 
-
+Self-improvement and honesty are ideals that shape my work. If there's something new to learn, I will dive right in. Beating around the bush isn't my way: I like to tell it straight and not spin a tale to my advantage.
 
 What else do you need?
 
-### my history
+### My Story in Bulletpoints
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- work as a camera assistant, DIT and colorist
+- two years cutting Youtube and TV shows
+- over ten years of computer programming experience
+- study and work in IT management
+- Win / Mac / Linux administration
+- network building and administration
+- leading positions in youth organisations
