@@ -6,16 +6,13 @@ subtitle: What you can expect from me.
 
 My name is Jannik C. Altgen, but you can call me Chris. 
 
-*My passion is creating amazing visuals using efficient and well-managed workflows.*
+*My mission here is to help create amazing visuals using efficient and effective digital cinema workflows from start to finish.*
 
-A background in programming, IT management studies and work as a camera assistant, cutter and colorist gives me a broad perspective on creating and executing digital cinema production workflows. 
+I want to be there in preproduction, when you are wondering which camera to use. If you worry about exposure on set, I want to be there for you. And when we sit in the cozy darkness of the grading suite, I want to be there to finish our greates work yet. If you love crafting stunning images as much as I, why don't we do this together?
 
-My core skills:
+Self-improvement and honesty are core values that keep me moving forwards. If there's something new to learn, I will dive right in. Something I don't subscribe to is politics. If there's an issue, let's talk about it and not sweep it under the rug. 
 
-- colorgrading on DaVinci Resolve 
-- editing in PremierePro and Avid
-- IT admin including servers, networks and Win / Mac / Linux clients
-- programmer
+
 
 What else do you need?
 
