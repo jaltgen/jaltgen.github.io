@@ -1,13 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What you can expect from me.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jannik C. Altgen, but you can call me Chris. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+*My passion is creating amazing visuals using efficient and well-managed workflows.*
+
+A background in programming, IT management studies and work as a camera assistant, cutter and colorist gives me a broad perspective on creating and executing digital cinema production workflows. 
+
+My core skills:
+
+- colorgrading on DaVinci Resolve 
+- editing in PremierePro and Avid
+- IT admin including servers, networks and Win / Mac / Linux clients
+- programmer
 
 What else do you need?
 
