@@ -17,7 +17,7 @@ Let's create our next big thing, together.
 
 ## Core Values
 
-Self-improvement and honesty are ideals that shape my work. If there's something new to learn, I will dive right in. Beating around the bush isn't my way: I don't like spinning tales, but saying it like it is.
+We work best when we communicate openly as equals, no politics, no schemes and plots. Meditation, yoga, reading and writing are routines that help me focus my life and work on what is truly important.
 
 What else do you need?
 
