@@ -19,8 +19,6 @@ Let's create our next big thing, together.
 
 We work best when we communicate openly as equals, no politics, no schemes and plots. Meditation, yoga, reading and writing are routines that help me focus my life and work on what is truly important.
 
-What else do you need?
-
 ## My Story in Bulletpoints
 
 - work as a camera assistant, DIT and colorist
