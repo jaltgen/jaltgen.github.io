@@ -15,7 +15,7 @@ Can I be there for you all the way:
 
 Let's create your and my next big thing, together.
 
-Self-improvement and honesty are ideals that shape my work. If there's something new to learn, I will dive right in. Beating around the bush isn't my way: I like to tell it straight and not spin a tale to my advantage.
+Self-improvement and honesty are ideals that shape my work. If there's something new to learn, I will dive right in. Beating around the bush isn't my way: I don't like spinning tales, but saying it like it is.
 
 What else do you need?
 
