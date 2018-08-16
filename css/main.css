@@ -39,6 +39,10 @@ a:focus {
   color: {{ site.hover-col }};
 }
 blockquote {
+  font-family: Merriweather;
+  font-size: 1.6em;
+  line-height: 3rem;
+  font-weight: 300;
   color: #808080;
   font-style: italic;
 }
@@ -65,7 +69,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Merriweather, serif;
   padding: 15px inherit;
 }
 
@@ -116,7 +120,8 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Oswald;
+  font-weight: 700;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
@@ -298,7 +303,9 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Merriweather, serif;
+  font-style: italic;
+  font-weight: 300;
   text-align: center;
   margin-bottom: 0;
 }
@@ -364,7 +371,7 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Merriweather, serif;
 }
 .post-entry-container {
   display: inline-block;
@@ -401,7 +408,7 @@ footer .theme-by {
 /* --- Tags --- */
 
 .blog-tags {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Oswald, sans-serif;
   color: #999;
   font-size: 15px;
   margin-bottom: 30px;
@@ -494,7 +501,7 @@ footer .theme-by {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Oswald, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -519,7 +526,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Oswald, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -603,10 +610,10 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Merriweather, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 500;
   letter-spacing: 1px;
   padding: 10px 5px;
   background-color: #FFF;
@@ -772,7 +779,7 @@ td.gutter {
 }
 
 #full-tags-list {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Oswald, sans-serif;
 }
 
 #full-tags-list .tag-entry {
