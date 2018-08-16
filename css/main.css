@@ -8,7 +8,7 @@ layout: null
 
 body {
   font-family: Merriweather;
-  font-size: 10px;
+  font-size: 14px;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
@@ -366,7 +366,7 @@ footer .theme-by {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-size: 18px;
+  font-size: 12px;
   font-style: italic;
   margin: 0 0 10px;
 }
