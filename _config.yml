@@ -27,7 +27,7 @@ navbar-links:
   Resources:
     - 5 Indie Colorgrading Hacks: "ebook"
    # - Ebook Nr. 2: "ebook2"
-   # - Knowledgebase: "knowledgebase"
+    - Knowledgebase: "knowledgebase"
   #Projects:
    # - blaa: "blaa"
    # - blaa2: "bla2"
