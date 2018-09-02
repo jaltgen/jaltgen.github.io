@@ -5,17 +5,16 @@ author: Jannik Altgen
 type: page
 ---
 
+Find a link to a host of resources and books I find useful. (Links coming soon.)
+
 - VashiVisuals
 - Wolfcrow
-- dvuser forum
-- sony camera dude site
+- http://www.xdcam-user.com
 - DPP
-- IP Whitepaper
 - DNxHD / ProRes whitepapers
-- Hedge Medium
+- Hedge Medium Blog
 - DaVinci Resolve Manual
+- http://vanhurkman.com/wordpress/
 - Books
- - A. Hurkmann
- - Focal Press Cinematogrpahy
- - Focal Press books in general
- - 
+ - Focal Press "Digital Cinematogrpahy"
+ - Focal Press "Modern Post"
