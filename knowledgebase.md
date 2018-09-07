@@ -8,15 +8,15 @@ type: page
 Find a link to a host of resources and books I find useful. (Links coming soon.)
 
 - [VashiVisuals](http://vashivisuals.com/home/)
-- [olfcrow](https://wolfcrow.com/)
+- [Wolfcrow](https://wolfcrow.com/)
 - http://www.xdcam-user.com
-- [Digital Production Partnership](https://www.digitalproductionpartnership.co.uk/publications/type/yay-available-to-nonmembers/#
+- [Digital Production Partnership](https://www.digitalproductionpartnership.co.uk/publications/type/yay-available-to-nonmembers/#)
 - [DNxHD PDF](https://www.avid.com/static/resources/US/documents/dnxhd.pdf) / [ProRes PDF](https://www.apple.com/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf) whitepapers 
 - [Hedge Medium Blog](https://medium.hedgeformac.com/)
 - [DaVinci Resolve Manual](https://documents.blackmagicdesign.com/DaVinciResolve/20180207-fac7b4/DaVinci_Resolve_14_Reference_Manual.pdf)
-- http://vanhurkman.com/wordpress/
+- [Alexis Van Hurkman](http://vanhurkman.com/wordpress/)
 - [ICC Whitepapers](http://www.color.org/whitepapers.xalter)
-- Books
+
  - Focal Press "Digital Cinematogrpahy"
  - Focal Press "Modern Post"
  - Wiley, "Digital Color Management"
