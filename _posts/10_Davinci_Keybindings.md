@@ -1,26 +1,11 @@
 ---
-title: Top Six DaVinci Resolve Keyboard Shortcuts
+title: Insanely Useful DaVinci Resolve Shortcuts
 author: Jannik C. Altgen
 date: 4.6.2016
+layout: post
+permalink: /insanely-useful-davinci-resolve-shortcuts/
+image: /img/10_cover.jpg
 ---
-
-1. Node Stuff
-  2. Ctrl+D: Deactivate current Node
-  3. Alt+D : Deactivate All Nodes
-  4. Alt+S : Append Serial Node
-  5. Shift+Alt+S : Prepend Serial Node
-6. Viewport
-  7. Alt+F : get rid of clutter
-  8. Ctrl + F : Fullscreen
-  9. Shift + F : Fullscreen with Frame Editor
-  10. Shift + Z : Zoom to Fit Windows
-7. Masking
-  8. Shift + H : Show Alpha Channel
-9. Clips
-  10. Arrow Up : Skip to Beginning of Next Clip
-  11. Arrow Down: Skip to End of Previous Clip
-12. Keyframe:
-  13. Add Keyframe ...
 
 Many a productivty article cites the use of keybindings as a major factor that increases productivity and, in my experience, this is true 100%. DaVinci Resolve is no exception to this rule: there are so many functions to control that finding the corresponding menu item from the dropdown menus just becomes tedious. Obviously, when you are grading in a comfy grading suite with a badass color grading panel, a lot of these keybindings will be conveniently mapped to a godzillion buttons so you don't need to learn the combos. But that isn't my reality right now and actually, when you are grading rushes on set as a DIT or so, you don't have space for a panel, so keybindings are your way to go, too. Here we go, my X most used keybindings in DaVinci Resolve. *Note: These are Windows keybindings. For Mac, for the most part, the Control key is substituted with the Mac Key.*
 
