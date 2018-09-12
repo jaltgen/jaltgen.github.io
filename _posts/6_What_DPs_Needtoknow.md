@@ -1,28 +1,17 @@
 ---
 title: What DPs need to know about colorists
 author: Jannik C. Altgen
-date: 9th May 2016 l
+type: post
+date: 9th May 2016
 ---
-
-1. Involve us early & fast
-  - talk about the looks you want
-  - talk about the gear you shoot with
-  - get us to talk to the other post-team
-  - get some suggestions
-3. We will honor your creative choices
-  - mostly.
-  - it's about helping you look the best, not have the best look
-4. But still improve stuff, not because you're a bad DP though
-  - that one time you didn't have enought time to get the fill perfect
-  - that annoying gradient on the wall you couldn't get because production ran out of scrims
 
 https://vimeo.com/78788547
 
-Last year I was fortunate enough to spend eight months in Australia. I absolutely loved the place and the people and begun friendships that I hope will last a lifetime. I spent four months at Queensland University of Technolog (LINK!) in Brisbane taking part in their film program. The first question everyone asked was of course "And what do you specialize in?" I kept saying I did color grading and would be excited for a chance to grade a few projects. It turned out, QUT had literally nobody who was really into grading, neither students nor staff. This left me in the  situation that a number of productions wanted to get me on board as their colorist. I was excited.
+In 2015 I was fortunate enough to spend eight months in Australia. I absolutely loved the place and the people and begun friendships that I hope will last a lifetime. I spent four months at Queensland University of Technolog in Brisbane taking part in their film program. The first question everyone asked was of course "And what do you specialize in?" I kept saying I did color grading and would be excited for a chance to grade a few projects. It turned out, QUT had literally nobody who was "really" into grading, neither students nor staff. This left me in the  situation that a number of productions wanted to get me on board as their colorist. I was excited.
 
 As the productions began to roll out, I got talking with the DPs. Much to my surprise, they were pretty much in the dark about all things color grading, digital imaging, codecs, gamma, etc. Not a single person had ever thought them about what sLog 2 was on their Sony camera. Most staff actually had no clue themselves and were, rather disappointingly, very closed minded about allowing their students to experiment. In response, we students huddled together to push our projects through grading and some higher-end workflows despite QUT blocking our paths. Over the course of four months, we put up a sort of color grading rebellion.
 
-The biggest push was to begin shooting in sLog2, Sony's older "flat" gamma curve (sLog3 being the new one LINK!). After tenderly suggesting this to QUT staff we were told it was a no-go due to the new Avid super-hyper-interlinked server-backuped badass production system QUT bought for a $$$. The statement was "sLog produces larger files and we can't put those through the pipeline". We had to call BS on that. *Given a certain framerate, codec, image size and bit-depth, changing the gamma curve will not alter the size of the files.* On a second note, isn't it kind of ridiculous that a modern integrated post production system made by Avid supposedly can't handle a ten-year old gamma curve? *facepalm*.
+The biggest push was to begin shooting in sLog2, Sony's older "flat" gamma curve, by now mostly superceded by sLog 3. After tenderly suggesting this to QUT staff we were told it was a no-go due to the new Avid super-hyper-interlinked server-backuped badass production system QUT bought for a $$$. The statement was "sLog produces larger files and we can't put those through the pipeline". We had to call BS on that. *Given a certain framerate, codec, image size and bit-depth, changing the gamma curve will not alter the size of the files.* On a second note, isn't it kind of ridiculous that a modern integrated post production system made by Avid supposedly can't handle a ten-year old gamma curve? *facepalm*.
 
 But wait, the fun continues. The administrator of the bespoke Avid system informed us that any sLog footage in DNxHD codec submitted into the Avid would be deleted automatically. Only XDCAM50 footage could be put in the linking server thingy (bare with me, I'm not going to look up the product names). XDCAM 50 is so old a codec, it's almost older than me. It was used in digital tape recording cameras. Welcome to the Nineties. Transcoding into XDCAM50 and mastering in that codec would have wrecked the quality of the film.
 
