@@ -7,6 +7,8 @@ permalink: /insanely-useful-davinci-resolve-shortcuts/
 image: /img/10_cover.jpg
 ---
 
+# Insanely Useful DaVinci Resolve Shortcuts
+
 Many a productivty article cites the use of keybindings as a major factor that increases productivity and, in my experience, this is true 100%. DaVinci Resolve is no exception to this rule: there are so many functions to control that finding the corresponding menu item from the dropdown menus just becomes tedious. Obviously, when you are grading in a comfy grading suite with a badass color grading panel, a lot of these keybindings will be conveniently mapped to a godzillion buttons so you don't need to learn the combos. But that isn't my reality right now and actually, when you are grading rushes on set as a DIT or so, you don't have space for a panel, so keybindings are your way to go, too. Here we go, my X most used keybindings in DaVinci Resolve. *Note: These are Windows keybindings. For Mac, for the most part, the Control key is substituted with the Mac Key.*
 
 ## Managing Nodes
