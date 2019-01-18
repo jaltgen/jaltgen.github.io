@@ -6,7 +6,15 @@ date: 11.11.2018
 
 # WORK
 
-## RTL Nitro - Docutainment
+## ("OBI Weihnachtsbaum" TVC - OBI)[https://www.youtube.com/watch?v=5WAuR1zLXKk]
+
+Member of the mastering and digital deliverables team.
+
+*Facts*:
+- delivery of Central and Eastern European masters
+- broadcast-safe correction and QC
+
+## ("Die Kobras" - RTL NITRO)[https://www.nitro-tv.de/cms/eigenformate/kobras-die-mofa-gang/folgen.html]
 
 Technical supervisor of production and post-production.
 
@@ -16,7 +24,7 @@ Technical supervisor of production and post-production.
 - support of up to 6 Premiere Pro edit-bays
 - over 12 TB of footage on an Avid ISIS 5000 system
 
-## Pro7 Maxx - Docutainment
+## ("Höllencamp" - Pro7 Maxx)[https://www.prosiebenmaxx.de/tv/hoellencamp]
 
 Design and execution of data workflows, technical postproduction supervision.
 
@@ -27,7 +35,7 @@ Design and execution of data workflows, technical postproduction supervision.
 - ingest to TerraBlock NAS
 - support of up to 6 Premiere Pro edit-bays
 
-## Bundeswehr - Youtube Content
+## ("Platz Da" - Bundeswehr)[https://www.youtube.com/watch?v=jvdliXfb494]
 
 Camera Operator & Data Wrangling
 
@@ -36,7 +44,7 @@ Camera Operator & Data Wrangling
 - shot on Sony FS7
 - fast turn-around for social media channels
 
-## Maybelline New York - Social Media Content
+## "Glossy Talk Live" - Maybelline New York
 
 Technical supervision of Facebook Live Shows
 
@@ -46,19 +54,54 @@ Technical supervision of Facebook Live Shows
 - stream-operation over LTE / 4G networks
 - on-location look management
 
-## Barmer - TVC
+## ("Fashion Show Berlin 2018" - Maybelline New York)[https://www.youtube.com/watch?v=AvYRzMNwSrM]
 
-Color Grading of two 30s TVCs
+DIT, 2nd camera NYC team, technical supervisor BER team, color grading.
+
+*Facts*
+- multicamera live show
+- preproduced content on Sony FS7
+- broadcast via Facebook
+
+## "Barmer Lebensrezepte" - BARMER
+
+Color Grading of two 30s In-House Spots.
 
 *Facts*
 - ARRI Alexa Mini footage
 - short turn-around
 - color grading in DaVinci Resolve
 
-## funk - Youtube Content
+## ("World of Westeros" - FUNK)[https://www.youtube.com/watch?v=7-Ep3IEN-HM]
 
-On-Set LUT generation & color grading of a Youtube short-movie
+Monitor LUT generation & color grading of a Youtube short-movie
 
 *Facts*
 - shot on Blackmagicdesign URSA Mini Pro
 - graded on DaVinci Resolve
+
+## ("Glück DIY" - GLÜCK MARMELADE)[https://www.youtube.com/watch?v=OgdgTq9CLFI]
+
+Lighting camera work on a series of DIY videos for Youtube syndication.
+
+*Facts*
+- shot on Sony FS7
+- LUT generation for quick turnarounds
+
+## ("YOUNGBULANZ" Season 1 - Schweizer Fernsehen)[https://www.youtube.com/watch?v=sax7HOhLgvs] 
+
+Member of the camera & editing team. On-set lighting and sound production.
+
+*Facts*
+- multicam studio shoot on Sony FS5
+- comedy, talk and sex-ed formats
+- delivery of 75 episodes for the YOUNGBULANZ channel
+
+## "FaceAwards Germany 2017" - NYX Makeup
+
+2nd camera operator for award videos, stream operator for the live show.
+
+*Facts*
+- production of award videos
+- on-location live production in Berlin
+- uplinked via satelite and DSL
