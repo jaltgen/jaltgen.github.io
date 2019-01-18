@@ -10,7 +10,6 @@ date: 11.11.2018
 
 Member of the mastering and digital deliverables team.
 [See it here!](https://www.youtube.com/watch?v=5WAuR1zLXKk)
-
 *Facts*:
 - delivery of Central and Eastern European masters
 - broadcast-safe correction and QC
@@ -19,7 +18,6 @@ Member of the mastering and digital deliverables team.
 
 Technical supervisor of production and post-production.
 [See it here!](https://www.nitro-tv.de/cms/eigenformate/kobras-die-mofa-gang/folgen.html)
-
 
 *Facts*
 - 10 episodes, 50 minutes each
@@ -31,7 +29,6 @@ Technical supervisor of production and post-production.
 
 Design and execution of data workflows, technical postproduction supervision.
 [See it here!](https://www.prosiebenmaxx.de/tv/hoellencamp)
-
 *Facts*
 - 5 episodes, 90 minutes each
 - up to ten cameras shooting at once
@@ -43,7 +40,6 @@ Design and execution of data workflows, technical postproduction supervision.
 
 Camera Operator & Data Wrangling
 [See it here!](https://www.youtube.com/watch?v=jvdliXfb494)
-
 *Facts*
 - 9m crane ops
 - shot on Sony FS7
@@ -52,7 +48,6 @@ Camera Operator & Data Wrangling
 ## "Glossy Talk Live" - Maybelline New York
 
 LTE / 4G uplink operator, network tech, live prodcution technician.
-
 *Facts*
 - five 45-minute Facebook Live shows
 - operation of Blackmagicdesign outside-broadcasting equipment
@@ -63,7 +58,6 @@ LTE / 4G uplink operator, network tech, live prodcution technician.
 
 DIT, 2nd camera NYC team, technical supervisor BER team, color grading.
 [See it here!](https://www.youtube.com/watch?v=AvYRzMNwSrM)
-
 *Facts*
 - multicamera live show
 - preproduced content on Sony FS7
@@ -72,7 +66,6 @@ DIT, 2nd camera NYC team, technical supervisor BER team, color grading.
 ## "Barmer Lebensrezepte" - BARMER
 
 Color Grading of two 30s In-House Spots.
-
 *Facts*
 - ARRI Alexa Mini footage
 - short turn-around
@@ -82,7 +75,6 @@ Color Grading of two 30s In-House Spots.
 
 Monitor LUT generation & color grading of a Youtube short-movie
 [See it here!](https://www.youtube.com/watch?v=7-Ep3IEN-HM)
-
 *Facts*
 - shot on Blackmagicdesign URSA Mini Pro
 - graded on DaVinci Resolve
@@ -91,7 +83,6 @@ Monitor LUT generation & color grading of a Youtube short-movie
 
 Lighting camera work on a series of DIY videos for Youtube syndication.
 [See it here!](https://www.youtube.com/watch?v=OgdgTq9CLFI)
-
 *Facts*
 - shot on Sony FS7
 - LUT generation for quick turnarounds
@@ -100,7 +91,6 @@ Lighting camera work on a series of DIY videos for Youtube syndication.
 
 Member of the camera & editing team. On-set lighting and sound production.
 [See it here!](https://www.youtube.com/watch?v=sax7HOhLgvs) 
-
 *Facts*
 - multicam studio shoot on Sony FS5
 - comedy, talk and sex-ed formats
@@ -109,7 +99,6 @@ Member of the camera & editing team. On-set lighting and sound production.
 ## "FaceAwards Germany 2017" - NYX Makeup
 
 2nd camera operator for award videos, stream operator for the live show.
-
 *Facts*
 - production of award videos
 - on-location live production in Berlin
